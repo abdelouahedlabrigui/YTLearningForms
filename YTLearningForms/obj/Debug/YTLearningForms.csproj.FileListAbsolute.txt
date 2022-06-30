@@ -1,0 +1,13 @@
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\bin\Debug\YTLearningForms.exe.config
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\bin\Debug\YTLearningForms.exe
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\bin\Debug\YTLearningForms.pdb
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\bin\Debug\MetroSet UI.dll
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\bin\Debug\System.Management.Automation.dll
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.Form1.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.IO.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.Properties.Resources.resources
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.csproj.GenerateResource.cache
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.csproj.CoreCompileInputs.cache
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.csproj.CopyComplete
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.exe
+D:\Entrepreneurship\Software\YTLearning\forms\YTLearningForms\YTLearningForms\obj\Debug\YTLearningForms.pdb
