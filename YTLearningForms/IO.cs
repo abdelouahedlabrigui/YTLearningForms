@@ -31,7 +31,7 @@ namespace YTLearningForms
                 await Task.Delay(1);
                 metroSetComboBoxActions.Items.Add(item.ToString());
             }
-            string connectionstring = @"Data Source=DESKTOP-9CS6TTK\SQLEXPRESS;Initial Catalog=YTLearning;User ID=abdelouahedlabrigui;Password=rootroot.;Trusted_Connection=yes;";
+            string connectionstring = @"Data Source=;Initial Catalog=YTLearning;User ID=abdelouahedlabrigui;Password=rootroot.;Trusted_Connection=yes;";
             using (SqlConnection connection = new SqlConnection(connectionstring.ToString()))
             {
                 connection.Open();
